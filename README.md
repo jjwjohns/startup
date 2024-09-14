@@ -22,6 +22,6 @@ Provides every user with login. Store logbook information and general user infor
 ### Websocket
 Updates on logbook are shared to other user. Real time updates on snowfall and conditions.
 ## Rough Sketches
-![sketch1.png]
-![sketch2.png]
-![sketch3.png]
+![First image of sketches](images/sketch1.png)
+![Second image of sketches](images/sketch2.png)
+![Third image of sketches](images/sketch3.png)
