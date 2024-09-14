@@ -8,9 +8,9 @@ Are you an avid skiier? Do you wish you could find all the relevant information 
 - Links to all ski resorts to buy lift tickets.
 ## Plan to Implement Technologies
 ### HTML
-Several HTML pages: A map which shows all ski resorts, a page with information on each resort, a logbook to track personal progress, and a page to see fellow users and connect with them. Hyperlinks to ski resort websites.
+Several HTML pages: Log in page, a map which shows all ski resorts, a page with information on each resort, a logbook to track personal progress, and a page to see fellow users and connect with them. Hyperlinks to ski resort websites.
 ### CSS
-General styilizing of the whole application. Good colors and cohesive fonts and allignments.
+General style of the whole application. Good colors and cohesive fonts and allignments.
 ### JavaScript
 Login, sharing logbook, and interactive use of the logbook and map html pages.
 ### React
