@@ -21,5 +21,7 @@ Web services to provide weather, road, and mountain conditions. Provide winter p
 Provides every user with login. Store logbook information and general user information.
 ### Websocket
 Updates on logbook are shared to other user. Real time updates on snowfall and conditions.
-
-
+## Rough Sketches
+![sketch1.png]
+![sketch2.png]
+![sketch3.png]
