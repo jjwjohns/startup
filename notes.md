@@ -3,4 +3,4 @@ Today was super helpful with git. I was just struggling with git in a different 
 
 # html project
 Here is the command to deploy from local development to the server.
-./deployFiles.sh -k //Users/jordanjohns/Desktop/CS_tools/keys/Jordan_AWS_Key_Pair_1.pem  -h jjohns-byu.click -s simon 
+./deployFiles.sh -k //Users/jordanjohns/Desktop/CS_tools/keys/Jordan_AWS_Key_Pair_1.pem  -h jjohns-byu.click -s simon

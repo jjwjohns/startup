@@ -25,3 +25,8 @@ Updates on logbook are shared to other user. Real time updates on snowfall and c
 ![First image of sketches](images/sketch1.png)
 ![Second image of sketches](images/sketch2.png)
 ![Third image of sketches](images/sketch3.png)
+
+
+
+## HTML deliverable
+Added original html files for each base page with placeholders for future additions.
