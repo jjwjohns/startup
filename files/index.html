@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Home</title>
-    <link rel="stylesheet" href="../css/main.css" />
-    <link rel="stylesheet" href="../css/resort.css" />
+    <title>Login</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/index.css" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link
@@ -13,7 +13,7 @@
       crossorigin="anonymous"
     />
   </head>
-
+  
   <body>
     <header class="container-fluid p-0">
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -35,43 +35,25 @@
       
     </header>
 
-    <img src="https://outdoorfamiliesonline.com/wp-content/uploads/img_0729.jpg" alt="ski lift" width = 100% height = 300/>
-
     <main class="container-fluid text-center">
-        <h3>Sundance</h3>
-        <img class = "mb-5" src="https://www.sundanceresort.com/wp-content/uploads/2023/11/Winter_2023_TrailMap_v2.pdf" alt="sundance map" width = 80% height = 900/>
-
-        <div class = "row">
-            <div class = "col-md-4">
-                <h5>Conditions</h5>
-                <p><i>(These will be updated live)</i></p>
-                <p><b>Snowfal:</b> 3 Inches last night</p>
-                <p><b>Weather:</b> Currently Sunny</p>
-                <p><b>Road Conditions:</b> No road blockages: Snow tires or chains recommended</p>
+        <div>
+          <h1>Welcome to Ski Sundance</h1>
+          <form method="get" action="home.html">
+            <div class="input-group mb-3">
+              <span class="input-group-text">@</span>
+              <input class="form-control" type="text" placeholder="username@email.com" />
             </div>
-            <div class = "col-md-4">
-                <h5>Ticket Prices</h5>
-                <p><b>Day Pass:</b> $139</p>
-                <p><b>Night Pass:</b> $59</p>
-                <p><b>Season Pass:</b> $749</p>
-                <p></p>
+            <div class="input-group mb-3">
+              <span class="input-group-text">🔒</span>
+              <input class="form-control" type="password" placeholder="password" />
             </div>
-            <div class = "col-md-4">
-                <h5>Resort Info</h5>
-                <p> <b>Address:</b> 8841 N. Alpine Loop Road Sundance, Utah 84604</p>
-                <p><b>Phone:</b> 801-225-4107</p>
-                <p><b>Monday, Wednesday, Friday, Saturday:</b></p>
-                <p> 9:00 AM - 9:00 PM</p>
-                <p><b>Tuesday, Thursday, Sunday:</b></p>
-                <p>9:00 AM - 4:30 PM</p>
+            <div>
+              <button type="submit" class="btn btn-primary">Login</button>
+              <button type="submit" class="btn btn-secondary">Create</button>
             </div>
+          </form>
         </div>
-
-        <br />
-        <a href="https://www.sundanceresort.com/">Sundance</a>
-
-        <p>"A pair of skis are the ultimate transformation to freedom."</p>
-        <hr />
+        <p>“Skiing is more than a sport; it's a way of life.” </p>
     </main>
 
     <footer class="bg-dark text-white-50 container-fluid">
@@ -80,6 +62,6 @@
         <a class="text-reset" href="https://github.com/jjwjohns/startup.git">GitHub</a>
       </div>
     </footer>
-  </body>
 
+  </body>
 </html>
