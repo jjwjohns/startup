@@ -39,4 +39,4 @@ Added original html files for each base page with placeholders for future additi
 - Changed the design to combine logbook and profile and added a community page where you can look for friends to connect with.
 - Changed the design to focus on Sundance and the people who ski there instead of all of Utah.
 - Added an about page on the home location, and a resort page to talk about Sundance.
-
+- Deployed to startup.jjohns-byu.click 10/13
