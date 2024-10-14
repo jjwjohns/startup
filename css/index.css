@@ -1,0 +1,16 @@
+body {
+    background-image: url('../html/images/cool.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+}
+
+p {
+    color: white;
+}

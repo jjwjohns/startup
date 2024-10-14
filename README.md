@@ -32,3 +32,4 @@ Updates on logbook are shared to other user. Real time updates on snowfall and c
 Added original html files for each base page with placeholders for future additions. Deployed to webserver startup.jjohns-byu.click
 
 ## CSS Deliverable
+
