@@ -38,4 +38,5 @@ Added original html files for each base page with placeholders for future additi
 - Added pictures to be the background. Added flex components. Fixed the header and footer to top and bottom.
 - Changed the design to combine logbook and profile and added a community page where you can look for friends to connect with.
 - Changed the design to focus on Sundance and the people who ski there instead of all of Utah.
+- Added an about page on the home location, and a resort page to talk about Sundance.
 
