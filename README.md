@@ -31,5 +31,7 @@ Updates on logbook are shared to other user. Real time updates on snowfall and c
 ## HTML Deliverable; Submitted 9/28
 Added original html files for each base page with placeholders for future additions. Deployed to webserver startup.jjohns-byu.click
 
-## CSS Deliverable
-
+## CSS Deliverable 10/13
+Changed the design to have the login be the starting point. Also removed the login link from the navbar.
+Organized css files to have one main file and an individual file for each html page. Also linked bootstrap to each page.
+Added pictures to be the background. Added flex components. Fixed the header and footer to top and bottom.
