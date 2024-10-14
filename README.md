@@ -36,6 +36,6 @@ Added original html files for each base page with placeholders for future additi
 - Changed the design to have the login be the starting point. Also removed the login link from the navbar.
 - Organized css files to have one main file and an individual file for each html page. Also linked bootstrap to each page.
 - Added pictures to be the background. Added flex components. Fixed the header and footer to top and bottom.
-- Changed the design to combine logbook and profile and then add a community page where you can look for friends to connect with.
+- Changed the design to combine logbook and profile and added a community page where you can look for friends to connect with.
 - Changed the design to focus on Sundance and the people who ski there instead of all of Utah.
 
